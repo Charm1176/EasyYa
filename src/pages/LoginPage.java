@@ -6,6 +6,9 @@ public class LoginPage {
 		System.out.println("login to application");
 	}
 	
+	
+	
+	
 	public void fetchTitle()
 	{
 		System.out.println("Getting the title of the page");
